@@ -1,1 +1,3 @@
-# Match-and-resize-templates-Ozon-and-WB-
+# Match and resize templates Ozon and WB 
+Приложение делает сопоставление характеристик шаблонов Озон и ВБ.
+Вместо файла Templates_WB нужно создать папку с шаблонами ВБ.
